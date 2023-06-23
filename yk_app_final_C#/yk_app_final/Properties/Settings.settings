@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="yk_app_final.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="button1Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.Tuş</Value>
+    </Setting>
+    <Setting Name="button2Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2.Tuş</Value>
+    </Setting>
+    <Setting Name="button3Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.Tuş</Value>
+    </Setting>
+    <Setting Name="button4Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4.Tuş</Value>
+    </Setting>
+    <Setting Name="button5Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5.Tuş</Value>
+    </Setting>
+    <Setting Name="button6Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6.Tuş</Value>
+    </Setting>
+    <Setting Name="button7Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7.Tuş</Value>
+    </Setting>
+    <Setting Name="button8Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8.Tuş</Value>
+    </Setting>
+    <Setting Name="button9Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9.Tuş</Value>
+    </Setting>
+    <Setting Name="button10Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.Tuş</Value>
+    </Setting>
+    <Setting Name="button11Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11.Tuş</Value>
+    </Setting>
+    <Setting Name="button12Text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12.Tuş</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
