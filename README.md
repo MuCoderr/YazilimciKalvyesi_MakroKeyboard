@@ -5,3 +5,4 @@
 <img src="img/1.jpg" alt="alt text" width="576.5" height="1024">
 <img src="img/2.jpg" alt="alt text" width="576.5" height="1024">
 ***
+Youtube Linki: Yakında!!
